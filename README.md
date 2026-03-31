@@ -1,4 +1,10 @@
-Projeto criado para receber 20 valores em forma de segundos de atletas que participaram da última corrida.
+Projeto criado para receber 20 valores em forma de segundos de atletas que participaram da última corrida. Separar os dados em :
+* Melhor tempo | Pior tempo
+* Diferença entre o Melhor tempo e Pior tempo
+* Tempo médio
+* Quantidade de atletas acima da media e abaixo
+* Número da camisa do melhor atleta
+* Classificar em grupos de Elite, Regular e Iniciante 
 
 A variável  ```tempo = [] ``` foi criada em forma de array sem valor presente. Para que possa receber os valores posteriormente.
 
