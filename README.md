@@ -57,7 +57,7 @@ Requisitos Técnicos
 Linguagem: Python 3.x
 Ambiente: Terminal ou Prompt de Comando
 Dependências: Nenhuma (Standard Library apenas)
-
+'''
 ---
 
 
