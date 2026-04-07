@@ -60,6 +60,13 @@ Dependências: Nenhuma (Standard Library apenas)
 
 ---
 
-Deseja que eu crie uma seção de **contato** ou **créditos** para finalizar o arquivo?
 
+## Contribuidores
+
+Este projeto foi desenvolvido pelos seguintes membros:
+
+* **Kevin**
+* **Marcos**
+* **Pedro**
+* **Ana**
 
